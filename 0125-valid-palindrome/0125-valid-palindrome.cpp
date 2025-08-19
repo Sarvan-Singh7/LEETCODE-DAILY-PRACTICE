@@ -10,7 +10,7 @@ public:
     bool isPalindrome(string s) {
         int n=s.size();
         for(int i=0;i<n;i++){
-            s[i]=(char)tolower(s[i]);
+            s[i]=tolower(s[i]);
         }
         int i=0;int j=n-1;
         while(i<j){
