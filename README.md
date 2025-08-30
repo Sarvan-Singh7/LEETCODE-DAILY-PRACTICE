@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0941-sort-array-by-parity](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [1580-shuffle-the-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2058-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0941-sort-array-by-parity](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
+| [0941-sort-array-by-parity](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
