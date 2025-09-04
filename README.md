@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3830-find-closest-person](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
