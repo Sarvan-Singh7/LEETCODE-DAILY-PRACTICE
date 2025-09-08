@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<List<Integer>> answer = new ArrayList<>();  //outer arraylist creation.
-        int n=rowIndex +1;
+        int n=rowIndex +1;               ///////////////////MAIN THING THAT I TAKE LAST INDEX TILL WE HAVE TO CALCULATE PASCAL TRIANGLE
         for(int i=0 ; i<n; i++ ){
             answer.add(new ArrayList<Integer>());   //inner arrayList creation
             for(int j=0;j<=i;j++){                          //note that loop go till j<=i
@@ -12,6 +12,6 @@ class Solution {
                 }
             }
         }
-        return answer.get(rowIndex); //return answer in last;
+        return answer.get(rowIndex); //return answer in last AND SEE THAT I ONLY RETURN ROW WHICH HAVE TO BE RETURNED;
     }
 }
