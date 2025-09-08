@@ -3,7 +3,7 @@ class Solution {
         int row=matrix.length;
         int column=matrix[0].length;
             int i=0,j=column-1;
-            while(i<row && j>=0){
+            while(i<row && j>=0){   //handler it out of bound
                 if(target < matrix[i][j]){
                     j--;
                 }
