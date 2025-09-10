@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0118-pascals-triangle) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2058-concatenation-of-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
