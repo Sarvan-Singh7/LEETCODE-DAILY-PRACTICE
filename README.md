@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
