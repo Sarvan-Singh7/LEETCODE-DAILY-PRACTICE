@@ -26,9 +26,9 @@ class Solution {
           }
 
           if(arr[mid] <= arr[end]){
-              end = mid -1;
-              answer = Math.min(arr[mid] , answer);
               
+              answer = Math.min(arr[mid] , answer);
+              end = mid -1;
           }
           else{
             answer = Math.min(arr[st] , answer);
