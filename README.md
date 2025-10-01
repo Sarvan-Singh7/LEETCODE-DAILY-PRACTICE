@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
