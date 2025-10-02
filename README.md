@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0175-combine-two-tables) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
