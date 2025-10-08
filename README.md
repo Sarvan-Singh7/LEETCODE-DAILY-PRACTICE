@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3194-find-words-containing-character) |
