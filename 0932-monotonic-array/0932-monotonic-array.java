@@ -18,6 +18,6 @@ class Solution {
         if((inc ==1 && dec==0 )|| (inc==0 && dec==1)){
             return true;
         }
-        return true;
+        return true;   ///////this is a edge case so at this point return true because it is for consition where all elements are same example 1,1,1,1,1 so has to return true on it
     }
 }
