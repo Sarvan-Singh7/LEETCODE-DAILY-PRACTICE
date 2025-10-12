@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1603-running-sum-of-1d-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
