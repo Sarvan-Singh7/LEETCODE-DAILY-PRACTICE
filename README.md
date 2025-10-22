@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-sort-array-by-parity-ii) |
+| [1894-merge-strings-alternately](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
