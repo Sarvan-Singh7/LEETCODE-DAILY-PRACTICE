@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0371-sum-of-two-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2556-convert-the-temperature](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2556-convert-the-temperature) |
