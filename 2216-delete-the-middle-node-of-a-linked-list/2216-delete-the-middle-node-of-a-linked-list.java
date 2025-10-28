@@ -21,7 +21,7 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-
+        if(prevSlow == null){return null;}  //it means that loop runs only once so contains one node only
         prevSlow.next = slow.next;
         return head;
     }
