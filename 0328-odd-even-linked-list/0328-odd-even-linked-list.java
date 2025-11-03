@@ -1,6 +1,11 @@
 
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+
+            if(head == null || head.next==null){
+            return head;}
+        
+
         ListNode tempo = new ListNode(0);  //for collecting even indices
         ListNode  tempe = new ListNode(-1); //---odd
         ListNode temp1=tempo;
