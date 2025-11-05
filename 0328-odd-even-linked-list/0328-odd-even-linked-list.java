@@ -37,22 +37,21 @@
 class Solution {
     public ListNode oddEvenList(ListNode head) {
 
-            if(head == null || head.next==null){
-            return head;}
-        
+            if(head ==null || head.next == null){
+                return head;
 
-        ListNode odd = head;
-        ListNode even = head.next;
-        ListNode temp=head.next;  //as even wali last mein so it can start from here
-
-        while(even !=null && even.next !=null){
-            odd.next = odd.next.next;
-            even.next=even.next.next;
-            odd=odd.next;
-            even=even.next;
-        }
-        odd.next=temp;
-        return head;
+            }
+            ListNode Odd=head;
+            ListNode Even=head.next;
+            ListNode temp = head.next;
+            while(Even!=null && Even.next !=null){
+                Odd.next = Odd.next.next;
+                Even.next=Even.next.next;
+                Odd=Odd.next;
+                Even=Even.next;
+            }
+            Odd.next = temp;
+            return head;
 
 
     }
