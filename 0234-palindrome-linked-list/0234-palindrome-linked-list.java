@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution {   /////////////////please try it once dry run asit may cause problem
     public ListNode reverse(ListNode head){
 
         ListNode prev = null;
@@ -22,7 +22,7 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode SlowNext = reverse(slow);
+        ListNode SlowNext = reverse(slow);   //note down i dont pass slow.next
         
         ListNode NodeStart = head;
         while(SlowNext !=null){   //handle all edge cases so used
