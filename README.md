@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1505-create-target-array-in-the-given-order) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1603-running-sum-of-1d-array) |
