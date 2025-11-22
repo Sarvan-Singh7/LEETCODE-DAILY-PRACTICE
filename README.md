@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Recursion
 |  |
