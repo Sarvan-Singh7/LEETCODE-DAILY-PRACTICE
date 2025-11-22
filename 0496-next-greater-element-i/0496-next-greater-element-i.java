@@ -5,8 +5,8 @@ class Solution {
         int arr[] = new int[n];
         
         for(int i=0;i<n;i++){
-             int startPosition=-1;  //first to find start [position example  => when nums1 ka element finded in nums2]
-             int PutInArr = -1;   //element to put into array
+            int startPosition=-1;  //first to find start [position example  => when nums1 ka element finded in nums2]
+            int PutInArr = -1;   //element to put into array
              for(int j=0;j<n2;j++){
                 if(nums1[i] == nums2[j]){
                     startPosition =j;
