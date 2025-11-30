@@ -2,9 +2,7 @@
 // class Solution {
 //     public ListNode oddEvenList(ListNode head) {
 
-//             if(head == null || head.next==null){
-//             return head;}
-        
+//             if(head == null || head.next==null){return head;}
 
 //         ListNode tempo = new ListNode(0);  //for collecting even indices
 //         ListNode  tempe = new ListNode(-1); //---odd
@@ -43,8 +41,8 @@ class Solution {
             }
             ListNode Odd=head;
             ListNode Even=head.next;
-            ListNode temp = head.next;
-            while(Even!=null && Even.next !=null){
+            ListNode temp = Even;
+            while(Even!=null && Even.next !=null){  //check for Even as 1 based indexing so Even hamesha Odd ke baad hi ayega.
                 Odd.next = Odd.next.next;
                 Even.next=Even.next.next;
                 Odd=Odd.next;
@@ -52,8 +50,5 @@ class Solution {
             }
             Odd.next = temp;
             return head;
-
-
     }
-
 }
