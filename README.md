@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
 | [3194-find-words-containing-character](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3379-score-of-a-string) |
 ## Stack
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
