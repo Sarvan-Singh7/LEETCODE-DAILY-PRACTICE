@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
