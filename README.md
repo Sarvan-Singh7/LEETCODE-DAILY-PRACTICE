@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1950-sign-of-the-product-of-an-array) |
