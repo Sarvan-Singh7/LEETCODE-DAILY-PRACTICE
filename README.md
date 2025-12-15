@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2129-capitalize-the-title](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
 | [3194-find-words-containing-character](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3194-find-words-containing-character) |
