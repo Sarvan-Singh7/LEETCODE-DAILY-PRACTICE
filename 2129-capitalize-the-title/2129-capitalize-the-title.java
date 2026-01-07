@@ -17,12 +17,14 @@
 // }
 
 
+
 class Solution {
     public String capitalizeTitle(String title) {
         String arr[] = title.split("\\s+");
         for(int i=0;i<arr.length;i++){
             String word = arr[i];
-            if(word.length() >2 && word.length() >0){
+
+            if(word.length() >2 ){
                 word = word.substring(0,1).toUpperCase() + word.substring(1).toLowerCase();
             }
             else if(word.length() <=2){
