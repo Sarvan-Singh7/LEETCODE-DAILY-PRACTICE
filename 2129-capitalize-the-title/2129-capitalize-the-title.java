@@ -18,20 +18,51 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 class Solution {
     public String capitalizeTitle(String title) {
-        String arr[] = title.split("\\s+");
+        String arr[]  = title.split("\\s+");
         for(int i=0;i<arr.length;i++){
-            String word = arr[i];
-
-            if(word.length() >2 ){
-                word = word.substring(0,1).toUpperCase() + word.substring(1).toLowerCase();
+            String words = arr[i];   /// pehle ek variable mein daal do ji
+            if(words.length()<=2){
+                words = words.substring(0).toLowerCase();
             }
-            else if(word.length() <=2){
-                word =word.substring(0).toLowerCase();
+            else{
+                words=words.substring(0,1).toUpperCase() + words.substring(1).toLowerCase();
             }
-            arr[i] = word;
+            arr[i] = words;    // and phir us hi variable mein bhar do ji
         }
-        return String.join(" ", arr);
+        return String.join(" ",arr);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
