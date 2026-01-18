@@ -1,22 +1,20 @@
 class Solution {
-    //main logic is that whenever opening is leass than n and closing is less than opening count so i can say that whenever both equal then it will be added to arraylist
-    public void generate(ArrayList<String> arr , int n, int oc, int cc, String s){
-        if(oc == n && cc == n){   // oc = opening count, cc = closing count
+    public List<String> generateParenthesis(int n) {
+        ArrayList<String> arr = new ArrayList<>();
+        generate(arr,n,0,0,"");
+        return arr;
+    }
+    public void generate(List<String> arr , int n, int open, int close, String s){
+
+        if(open == n && close == n){
             arr.add(s);
             return;
         }
-        if(oc<n){
-            generate(arr,n,oc+1,cc,s+'(');
+        if(open < n){
+            generate(arr,n,open+1,close,s+'(');    // open +1 se chala but if use open++ then not work a
         }
-        if(cc < oc){
-            generate(arr,n,oc,cc+1,s+')');
+        if(close < open){
+            generate(arr, n,open, close+1, s+')');
         }
-    }
-    public List<String> generateParenthesis(int n) {
-        ArrayList<String> arr = new ArrayList<>();
-        int oc=0,cc=0;
-        generate(arr,n,oc,cc,"");
-        System.out.println(arr.size());  // so to return count;
-        return arr;
     }
 }
