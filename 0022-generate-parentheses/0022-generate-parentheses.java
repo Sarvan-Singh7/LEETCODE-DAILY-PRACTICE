@@ -6,7 +6,7 @@ class Solution {
     }
     public void generate(List<String> arr , int n, int open, int close, String s){
 
-        if(open == n && close == n){
+        if(close == n){
             arr.add(s);
             return;
         }
