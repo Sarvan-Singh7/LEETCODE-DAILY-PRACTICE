@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0932-monotonic-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
