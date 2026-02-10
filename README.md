@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
