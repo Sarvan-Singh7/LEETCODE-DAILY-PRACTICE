@@ -29,7 +29,7 @@ class Solution {
             if(hash[s.charAt(r)] >= l){
                 l = Math.max(l, hash[s.charAt(r)] +1);
             }
-
+            
             maxlen = Math.max(maxlen, r-l+1);
             hash[s.charAt(r)]  = r;
             r++;
