@@ -4,11 +4,11 @@ class Solution {
         int zeroes=0;
         int start=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i] == 0){
+            if(nums[i] == 0){  //calculate zeroes everytime
                 zeroes++;
             }
-            while(zeroes>k){               
-               if(nums[start++] ==0){
+            if(zeroes>k){    //loop and decrease zeroes till it not come under control             
+               if(nums[start++] ==0){ //as start =0 at initial so increment it also so to calculate right length
                 zeroes--;
                }
             }
