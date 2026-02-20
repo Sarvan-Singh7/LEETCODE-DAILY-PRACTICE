@@ -1,23 +1,50 @@
-class Solution {  
+class Solution {    ///Most Optimal
     public int longestOnes(int[] nums, int k) {
-        int maxLength =0;
-        int zeroes=0;
-        int start=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] == 0){  //calculate zeroes everytime
-                zeroes++;
+          int zeroes =0;
+          int maxLength =0;
+          int left =0;
+          for(int right=0;right<nums.length;right++){
+            if(nums[right] == 0)zeroes++;
+            if(zeroes > k){
+                if(nums[left] ==0){
+                    zeroes--;
+                }
+                left++;
             }
-            if(zeroes>k){    //loop and decrease zeroes till it not come under control             
-               if(nums[start++] ==0){ //as start =0 at initial so increment it also so to calculate right length
-                zeroes--;
-               }
+            else{
+                maxLength = Math.max(maxLength, right-left+1);
             }
-            maxLength = Math.max(maxLength, i-start+1);
-        }
-        return maxLength;
-    }
 
+          }
+          return maxLength;
+    }
 }
+
+
+
+
+
+// class Solution {    //Optimal
+//     public int longestOnes(int[] nums, int k) {
+//         int maxLength =0;
+//         int zeroes=0;
+//         int start=0;
+//         for(int i=0;i<nums.length;i++){
+//             if(nums[i] == 0){  //calculate zeroes everytime
+//                 zeroes++;
+//             }
+//             while(zeroes>k){    //loop and decrease zeroes till it not come under control             
+//                if(nums[start] ==0){ //as start =0 at initial so increment it also so to calculate right length
+//                 zeroes--;
+//                }
+//                start++;
+//             }
+//             maxLength = Math.max(maxLength, i-start+1);
+//         }
+//         return maxLength;
+//     }
+
+// }
 
 
 // class Solution {  //== Brute code But stilll Run Because for Break condition reduce TC
