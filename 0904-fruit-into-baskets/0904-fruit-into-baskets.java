@@ -22,7 +22,7 @@
 //     }
 // }
 
-
+///IN A SLIDING WINDOW (left) IS ALWAYS USED TO SHRINK THE WINDOW SO THAT TO CALCULATE NEW SUBSTRING
 class Solution {
     public int totalFruit(int[] fruits) {
         int maxLength =0;
@@ -33,7 +33,7 @@ class Solution {
             if(map.size() <=2){
                 maxLength= Math.max(maxLength, right - left +1);
             }else{
-                while(map.size()>2){
+                if(map.size()>2){
                     
                     map.put(fruits[left], map.get(fruits[left]) -1);
                     if(map.get(fruits[left]) ==0){
