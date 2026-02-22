@@ -17,7 +17,6 @@ class Solution {
           int oddCount =0;
           int count =0;
           int left =0;
-          
           count=0;
           for(int right =0;right < nums.length;right++){
             if(nums[right] % 2 !=0)oddCount++;
