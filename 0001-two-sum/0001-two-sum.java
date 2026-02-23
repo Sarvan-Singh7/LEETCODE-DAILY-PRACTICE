@@ -16,24 +16,27 @@
 // }
 
 
-///Optimal Solution in one pass
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int n=nums.length;
-        int arr[] = new int[2];
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i=0;i<n;i++){
-            if(map.containsKey(target - nums[i])){
-                arr[0] = map.get(target -nums[i]);
-                arr[1] = i;
-                return arr;
-            }
-            map.put(nums[i], i);
-        }
-        return nums;
-    }
-}
+///Optimal Solution in one pass  //NATURALLY HANDLES DUPLICATES
+// class Solution {
+//     public int[] twoSum(int[] nums, int target) {
+//         int n=nums.length;
+//         int arr[] = new int[2];
+//         HashMap<Integer, Integer> map = new HashMap<>();
+//         for(int i=0;i<n;i++){
+//             if(map.containsKey(target - nums[i])){
+//                 arr[0] = map.get(target -nums[i]);
+//                 arr[1] = i;
+//                 return arr;
+//             }
+//             map.put(nums[i], i);
+//         }
+//         return nums;
+//     }
+// }
 
+//solution using Sorting
+
+////below provided solution is with 2 pass
 // class Solution {
 //     public int[] twoSum(int[] nums, int target) {
 //         int n=nums.length;
@@ -52,3 +55,25 @@ class Solution {
 //         return arr;
 //     }
 // }
+
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int n=nums.length;
+        int arr[] = new int[2];
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i=0;i<n;i++){
+            map.put(nums[i], i);
+        }
+        for(int i=0;i<n;i++){
+            
+            if(map.containsKey(target - nums[i]) && map.get(target - nums[i]) != i){
+                arr[0] = i;
+                arr[1] = map.get(target - nums[i]);
+                return arr;
+            }
+            
+        }
+        return arr;
+    }
+}
