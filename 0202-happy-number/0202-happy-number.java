@@ -1,7 +1,7 @@
 class Solution {
     public boolean isHappy(int n) {
         
-        int count = 10;
+        int count = 8;
         while(count-- > 0){int sum =0;
         while(n>0){
             int item = n % 10;
