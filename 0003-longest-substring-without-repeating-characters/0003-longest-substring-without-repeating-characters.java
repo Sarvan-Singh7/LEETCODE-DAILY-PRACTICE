@@ -19,7 +19,7 @@
 // }
 
 
-
+////using hashset
 
 class Solution {
     public int lengthOfLongestSubstring(String str) {
@@ -30,9 +30,9 @@ class Solution {
         
      for(int i=0;i<str.length();i++){
          char ch=str.charAt(i);
-         while(hm.contains(ch)){
-             hm.remove(str.charAt(start));
-             start++;
+         while(hm.contains(ch)){ // ye wali loop repeating characters ko remove kar degi from set as well as start pointer increment
+             hm.remove(str.charAt(start));   //also remove that character  
+             start++;  // increment start as this will help to calculate length
          } 
          hm.add(ch);
          max=Math.max(max,i-start+1);
@@ -41,6 +41,7 @@ class Solution {
     }
 }
 
+///using array=======================best optimal
 // class Solution {
 //     public int lengthOfLongestSubstring(String s) {
 //         int l=0,r=0;
