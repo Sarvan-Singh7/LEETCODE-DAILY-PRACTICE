@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0904-fruit-into-baskets) |
