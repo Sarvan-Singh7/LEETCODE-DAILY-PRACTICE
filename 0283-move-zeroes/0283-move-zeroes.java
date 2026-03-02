@@ -1,13 +1,28 @@
-class Solution {
+class Solution {   //instead of moving all zero to the right, all the non-zero to the left
     public void moveZeroes(int[] nums) {
         int j=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0){
+            if(nums[i] !=0){
                 int temp = nums[i];
-                nums[i] = nums[j];
+                nums[i]  = nums[j];
                 nums[j] = temp;
                 j++;
             }
         }
     }
 }
+/////////////////////Remember QuickSort. Use two Pointers and swap non-zeros to left and zeros to right.//////////////////////
+// class Solution {
+//     public void moveZeroes(int[] nums) {
+//         int j =0;
+//         for(int i=0;i<nums.length;i++){
+//             if(nums[i] !=0){
+//                int temp = nums[i];
+//                nums[i] = nums[j];
+//                nums[j] =  temp;
+//                j++;
+//             }
+//         }
+//         return;
+//     }
+// }
