@@ -21,25 +21,25 @@
 
 ////using hashset
 
-class Solution {
-    public int lengthOfLongestSubstring(String str) {
-        HashSet<Character>hm=new HashSet<>();
-        int start=0;
-        int max=0;
-        
-        
-     for(int i=0;i<str.length();i++){
-         char ch=str.charAt(i);
-         while(hm.contains(ch)){ // ye wali loop repeating characters ko remove kar degi from set as well as start pointer increment
-             hm.remove(str.charAt(start));   //also remove that character  
-             start++;  // increment start as this will help to calculate length
-         } 
-         hm.add(ch);
-         max=Math.max(max,i-start+1);
-     }
-     return max;
-    }
-}
+// class Solution {
+//     public int lengthOfLongestSubstring(String str) {
+//         HashSet<Character>hm=new HashSet<>();
+//         int start=0;
+//         int max=0; 
+
+//      for(int i=0;i<str.length();i++){
+//          char ch=str.charAt(i);
+//          while(hm.contains(ch)){ // ye wali loop repeating characters ko remove kar degi from set as well as start pointer increment
+//              hm.remove(str.charAt(start));   //also remove that character  
+//              start++;  // increment start as this will help to calculate length
+//          } 
+//          hm.add(ch);
+//          max=Math.max(max,i-start+1);
+//      }
+//      return max;
+//     }
+// }
+
 
 ///using array=======================best optimal
 // class Solution {
@@ -60,3 +60,22 @@ class Solution {
 //         return maxlen;
 //     }
 // }
+
+class Solution {
+    public int lengthOfLongestSubstring(String str) {
+        HashSet<Character> set = new HashSet<>();
+        int maxi = 0;
+        int left =0;
+        for(int right =0;right <str.length();right++){
+            char ch = str.charAt(right);
+            while(set.contains(ch)){
+                set.remove(str.charAt(left));
+                left++;
+            }
+            maxi = Math.max(maxi, right - left +1);
+            set.add(ch);
+        }
+        return maxi;
+    }
+}
+
