@@ -1,23 +1,60 @@
 
-class Solution {   //nearabout o(n)
+class Solution {   //nearabout o(n) but in worst case it is O(nsquare)
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(root == null)return null;
-        if(root.val == p.val || root.val == q.val)return root;   //if at any point we are at point when root becomes p q o finded
-        boolean pLiesInLeft = check(root.left,p);
-        boolean qLiesInRight = check(root.right,q);  //see we are not checking in rightsubtree 
-        if(pLiesInLeft && !qLiesInRight){           //if both in left then defanately find in next iteration leftwards
-            return lowestCommonAncestor(root.left, p, q);
-        }
-        else if(!pLiesInLeft && qLiesInRight){   /////if in rightsub tree
-            return lowestCommonAncestor(root.right, p, q);
-        }
-        else{
+        if(root.val == p.val || root.val == q.val)return root;
+        boolean pInLeft = check(root.left,p.val);
+        boolean qInRight = check(root.right,q.val);
+        if(pInLeft && !qInRight){
+            return lowestCommonAncestor(root.left,p,q);
+        }else if(!pInLeft && qInRight){
+            return lowestCommonAncestor(root.right,p,q);
+        }else{
             return root;
         }
     }
-    public static boolean check(TreeNode root, TreeNode val){
+    public boolean check(TreeNode root,int val ){
         if(root == null)return false;
-        if(root.val == val.val)return true;
+        if(root.val == val)return true;
         return check(root.left, val) || check(root.right, val);
-    }
+    }   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution {   //nearabout o(n)
+//     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+//         if(root == null)return null;
+//         if(root.val == p.val || root.val == q.val)return root;   //if at any point we are at point when root becomes p q o finded
+//         boolean pLiesInLeft = check(root.left,p);
+//         boolean qLiesInRight = check(root.right,q);  //see we are not checking in rightsubtree 
+//         if(pLiesInLeft && !qLiesInRight){           //if both in left then defanately find in next iteration leftwards
+//             return lowestCommonAncestor(root.left, p, q);
+//         }
+//         else if(!pLiesInLeft && qLiesInRight){   /////if in rightsub tree
+//             return lowestCommonAncestor(root.right, p, q);
+//         }
+//         else{
+//             return root;   //executes when p in left and q in right so LCA is root 
+//         }
+//     }
+
+
+
+//     public static boolean check(TreeNode root, TreeNode val){
+//         if(root == null)return false;
+//         if(root.val == val.val)return true;
+//         return check(root.left, val) || check(root.right, val);
+//     }
+// }
