@@ -1,32 +1,45 @@
+class Solution {   //O(n) as good code not helper function needed in it 
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        if(root == null)return null;
+        if(root.val == p.val || root.val == q.val)return  root;
+        TreeNode l = lowestCommonAncestor(root.left, p, q);
+        TreeNode r =lowestCommonAncestor(root.right, p , q);
+        if(l != null && r != null)return root;  //means dono side value mil gayi so simply return the node as it is answer
+        return (l!= null) ? l : r;
+    }  
+}
+
+
+
 //step 1 = find in which left subtree  p located and vica versa for q.
 
 //step 2 = if else ladder
           //->if(p lies in left subtree from current root and q not in right subtree)so now please search in leftsub tree so left++;
           //->if-else(q lies in right subtree but p not in left sub tree so )move right
           //->else{means that p in left sub tree and q in right sub tree }so certain that current root is the ancestor in common
-          
+
 //step 3 = just make a check function that return boolean result
 
-class Solution {   //nearabout o(n) but in worst case it is O(nsquare)
-    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null)return null;
-        if(root.val == p.val || root.val == q.val)return root;
-        boolean pInLeft = check(root.left,p.val);
-        boolean qInRight = check(root.right,q.val);
-        if(pInLeft && !qInRight){
-            return lowestCommonAncestor(root.left,p,q);
-        }else if(!pInLeft && qInRight){
-            return lowestCommonAncestor(root.right,p,q);
-        }else{
-            return root;
-        }
-    }
-    public boolean check(TreeNode root,int val ){
-        if(root == null)return false;
-        if(root.val == val)return true;
-        return check(root.left, val) || check(root.right, val);
-    }   
-}
+// class Solution {   //nearabout o(n) but in worst case it is O(nsquare)
+//     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+//         if(root == null)return null;
+//         if(root.val == p.val || root.val == q.val)return root; //if root ==p or q means that it is lca
+//         boolean pInLeft = check(root.left,p.val);
+//         boolean qInRight = check(root.right,q.val);
+//         if(pInLeft && !qInRight){
+//             return lowestCommonAncestor(root.left,p,q);
+//         }else if(!pInLeft && qInRight){
+//             return lowestCommonAncestor(root.right,p,q);
+//         }else{
+//             return root;
+//         }
+//     }
+//     public boolean check(TreeNode root,int val ){
+//         if(root == null)return false;
+//         if(root.val == val)return true;
+//         return check(root.left, val) || check(root.right, val);
+//     }   
+// }
 
 
 
