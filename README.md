@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0704-binary-search) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -616,11 +618,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0622-design-circular-queue) |
 ## Brainteaser
 |  |
 | ------- |
