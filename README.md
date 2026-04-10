@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-monotonic-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0932-monotonic-array) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
