@@ -1,3 +1,9 @@
+
+// Key Idea:
+// Break the circular dependency by solving two linear House Robber problems: one excluding the first house, one excluding the last.
+// Consider:
+// Can you refactor your helper function to accept start and end indices instead of copying arrays to save that extra space?
+   //current TC = SC = O(n)     try to optimize space by sending last and first
 class Solution {
     public int rob(int[] nums) {  //as in House RObber1 code we did use when last element was not connected to first
         int n= nums.length;
