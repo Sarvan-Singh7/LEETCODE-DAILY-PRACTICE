@@ -1,3 +1,5 @@
+
+//expected 'n' to have value from 1 to 8 only
 class Solution {
     public List<String> generateParenthesis(int n) {
         ArrayList<String> arr = new ArrayList<>();
@@ -6,7 +8,7 @@ class Solution {
     }
     public void generate(List<String> arr , int n, int open, int close, String s){
 
-        if(close == n){
+        if(close == n){   // close akela hi sambhal lega
             arr.add(s);
             return;
         }
@@ -18,3 +20,5 @@ class Solution {
         }
     }
 }
+
+
