@@ -1,5 +1,5 @@
 class Solution {///FORMULA = Min(leftMax, rightMax) - arr[i];
-    public int trap(int[] height) {/// O(N) TC & SC === O(n)
+    public int trap(int[] height) {/// O(3N) TC & SC === O(2n)
         int water =0;
         int n = height.length;
         int prefix[] = new int[n];
@@ -17,7 +17,10 @@ class Solution {///FORMULA = Min(leftMax, rightMax) - arr[i];
 
         ///Part in which we will compare
         for(int i=0;i<n;i++){
-            water += Math.min(prefix[i], suffix[i]) - height[i];
+            if(height[i] < prefix[i] && height[i] < suffix[i]){
+                water += Math.min(prefix[i], suffix[i]) - height[i];
+            }
+            
         }
         return water;
     }
