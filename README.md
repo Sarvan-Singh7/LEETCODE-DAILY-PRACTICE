@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0739-daily-temperatures) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
