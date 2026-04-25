@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
