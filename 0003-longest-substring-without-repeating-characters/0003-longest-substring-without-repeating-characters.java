@@ -41,6 +41,7 @@
 // }
 
 
+
 ///using array=======================best optimal
 // class Solution {
 //     public int lengthOfLongestSubstring(String s) {
@@ -61,6 +62,16 @@
 //     }
 // }
 
+
+
+
+
+
+
+
+
+
+
 class Solution {
     public int lengthOfLongestSubstring(String str) {
         HashSet<Character> set = new HashSet<>();
@@ -78,4 +89,3 @@ class Solution {
         return maxi;
     }
 }
-
