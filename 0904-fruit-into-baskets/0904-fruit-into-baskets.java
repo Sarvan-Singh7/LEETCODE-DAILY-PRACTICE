@@ -21,9 +21,12 @@
         
 //     }
 // }
+// 🧠 Core Idea
+// You can only carry 2 types of fruits
+// So you need the longest subarray with at most 2 distinct numbers
 
 ///IN A SLIDING WINDOW (left) IS ALWAYS USED TO SHRINK THE WINDOW SO THAT TO CALCULATE NEW SUBSTRING
-class Solution {
+class Solution {     // MOST OPTIMAL
     public int totalFruit(int[] fruits) {
         int maxLength =0;
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -33,19 +36,45 @@ class Solution {
             if(map.size() <=2){
                 maxLength= Math.max(maxLength, right - left +1);
             }else{
-                if(map.size()>2){
+               
                     
                     map.put(fruits[left], map.get(fruits[left]) -1);
                     if(map.get(fruits[left]) ==0){
                         map.remove(fruits[left]);
                     }
                     left++;
-                }
+                
             }
         }
         return maxLength;
     }
 }
+
+// ///IN A SLIDING WINDOW (left) IS ALWAYS USED TO SHRINK THE WINDOW SO THAT TO CALCULATE NEW SUBSTRING
+// class Solution {   //== OPTIMAL
+//     public int totalFruit(int[] fruits) {
+//         int maxLength =0;
+//         HashMap<Integer, Integer> map = new HashMap<>();
+//         int left =0;
+//         for(int right=0;right<fruits.length;right++){    //right pointer used for adding new character
+//             map.put(fruits[right], map.getOrDefault(fruits[right],0) +1);
+//             if(map.size() <=2){
+//                 maxLength= Math.max(maxLength, right - left +1);
+//             }else{
+//                 while(map.size()>2){
+                    
+//                     map.put(fruits[left], map.get(fruits[left]) -1);   //left pointer used fro removing
+//                     if(map.get(fruits[left]) ==0){
+//                         map.remove(fruits[left]);
+//                     }
+//                     left++;
+//                 }
+//             }
+//         }
+//         return maxLength;
+//     }
+// }
+
 
 
 
