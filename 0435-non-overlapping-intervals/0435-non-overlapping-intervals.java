@@ -6,13 +6,14 @@ class Solution {
         int lastEnd = intervals[0][1];
         for(int i=1;i<n;i++){
             if(lastEnd > intervals[i][0]){
-                count++;
+                count++;  //no need to update lastEnd here as this interval is to be removed so why to take its value
                 
             }
             else{
-                lastEnd = intervals[i][1];    ///afar ye if condition ke andar likhi so not all test case pass as we need maximum lasEnd
+                lastEnd = Math.max(lastEnd, intervals[i][1] );    ///afar ye if condition ke andar likhi so not all test case pass as we need maximum lasEnd
             }
         }
         return count;
     }
 }
+   
