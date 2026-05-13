@@ -13,7 +13,7 @@ class Solution {
                 end = intervals[i][1];
             }
         }
-        answer.add(new int[]{start, end});
+        answer.add(new int[]{start, end});   ///at last this again
         int arr[][] = new int[answer.size()][2];
         for(int i=0;i<answer.size();i++){
             for(int j=0;j<2;j++){
