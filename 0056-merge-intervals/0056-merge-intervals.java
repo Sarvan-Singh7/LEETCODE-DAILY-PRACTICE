@@ -1,6 +1,6 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        List<int[]> answer = new ArrayList<>();
+        List<int[]> answer = new ArrayList<>();  //sort by start time as end time wala not work correctly
         Arrays.sort(intervals  , (a, b) -> a[0] - b[0]);//lambda expression -> as like Arraow Function in JS
         int start = intervals[0][0];
         int end = intervals[0][1];
@@ -14,12 +14,14 @@ class Solution {
             }
         }
         answer.add(new int[]{start, end});   ///at last this again
-        int arr[][] = new int[answer.size()][2];
-        for(int i=0;i<answer.size();i++){
-            for(int j=0;j<2;j++){
-                arr[i][j] = answer.get(i)[j];
-            }
-        }
-        return arr;
+
+        return answer.toArray(new int[answer.size()][]);
+        // int arr[][] = new int[answer.size()][2];
+        // for(int i=0;i<answer.size();i++){
+        //     for(int j=0;j<2;j++){
+        //         arr[i][j] = answer.get(i)[j];
+        //     }
+        // }
+        // return arr;
     }
 }
