@@ -2,7 +2,7 @@
 class Solution {
     static int diameter;
     public int diameterOfBinaryTree(TreeNode root) {  //== O(n2)  //as 2 times recursion calls
-        if(root == null)return 0;     ///it works as because calculating har level ka left subtree and right subtree
+        if(root == null)return 0;     
         diameter =0;
         helperLevel(root);
         return diameter;
