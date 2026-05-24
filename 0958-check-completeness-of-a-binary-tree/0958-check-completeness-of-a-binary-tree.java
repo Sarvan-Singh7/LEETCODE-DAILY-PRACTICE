@@ -15,6 +15,5 @@ class Solution {
             q.poll();
         }
         return q.isEmpty();///because agar complete hoga toh sare null while looop khatam kar dega
-
     }
 }
