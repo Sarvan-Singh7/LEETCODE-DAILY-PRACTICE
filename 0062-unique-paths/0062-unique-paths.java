@@ -21,20 +21,40 @@
 // }
     
 
-    ////SLVING THIS PARTICULAR sOLUTION WITH MEMOIZATION
-    class Solution {     
-    public int uniquePaths(int m, int n) {
-        int arr[][] = new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==0 || j==0){
-                    arr[i][j] = 1;
-                }
-                else{  //means we are not at row zero or column one
-                    arr[i][j] = arr[i-1][j] + arr[i][j-1];
-                }
-            }
-        }
-        return arr[m-1][n-1];    
-}
+
+//     class Solution {     
+//     public int uniquePaths(int m, int n) {
+//         int arr[][] = new int[m][n];
+//         for(int i=0;i<m;i++){
+//             for(int j=0;j<n;j++){
+//                 if(i==0 || j==0){
+//                     arr[i][j] = 1;
+//                 }
+//                 else{  //means we are not at row zero or column one
+//                     arr[i][j] = arr[i-1][j] + arr[i][j-1];
+//                 }
+//             }
+//         }
+//         return arr[m-1][n-1];    
+// }
+//     }
+
+
+class Solution {  
+    public int Helper(int m, int n, int row, int col, int dp[][]){
+        if(row == m-1 && col == n-1)return 1;//one path exists as reached to last
+        if(row >= m || col >= n) return 0;
+        if(dp[row][col] != -1)return dp[row][col];
+        int down = Helper(m, n, row+1, col, dp);
+        int right = Helper(m, n, row, col+1, dp);
+        return dp[row][col] = down + right;
     }
+    public int uniquePaths(int m, int n) {
+        int dp[][] = new int[m][n];
+        for(int i=0;i<m;i++){
+            Arrays.fill(dp[i], -1);
+        }
+        return Helper(m, n, 0, 0, dp);
+          
+    } 
+}
