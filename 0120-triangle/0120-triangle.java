@@ -24,25 +24,20 @@
 class Solution {    ///Tabulation code in O(N square) TC and SC
     
     public int minimumTotal(List<List<Integer>> triangle) {
+
         int n = triangle.size();
-        int[][] dp = new int[n][n];
-
-        // Fill last row
-        for (int j = 0; j < n; j++) {
-            dp[n - 1][j] = triangle.get(n - 1).get(j);
+        int dp[][] = new int[n][n];
+        for(int j=0;j<n;j++){    ////as base case covered of Recursion that ends on n-1 row
+            dp[n-1][j] = triangle.get(n-1).get(j);
         }
-
-        // Fill rest of dp from bottom to top
-        for (int i = n - 2; i >= 0; i--) {
-            for (int j = i; j >= 0; j--) {
-                // Take min of down and diagonal
-                int down = triangle.get(i).get(j) + dp[i + 1][j];
-                int diag = triangle.get(i).get(j) + dp[i + 1][j + 1];
-                dp[i][j] = Math.min(down, diag);
+        ////in this Tabulation format we will iterate reverse starting fro n-2 as  because we also did start from 0, 0 in recursion code so taken opposite
+        for(int i=n-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                int down = triangle.get(i).get(j) + dp[i+1][j];
+                int diagonal = triangle.get(i).get(j) + dp[i+1][j+1];
+                dp[i][j] = Math.min(down, diagonal);
             }
         }
-
-        // Return top element
         return dp[0][0];
     }
 }
