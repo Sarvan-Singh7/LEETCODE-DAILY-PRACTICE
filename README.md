@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bucket Sort
