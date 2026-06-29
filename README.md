@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0342-power-of-four) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -972,4 +975,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
