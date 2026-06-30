@@ -18,18 +18,22 @@
 
 class Solution {    ///Tabulation COde
     public static int f(String s1, String s2, int m, int n, int dp[][]){
+        int prev[] = new int[s1.length()+1];
+        int curr[] = new int[s1.length()+1];
         //no need to convert base cases first row and column as 0 because in Java its already 0
         for(int i=1;i<=m;i++){ //less than equal to because of 2d array size
             for(int j=1;j<=m;j++){
                 if(s1.charAt(i-1) == s2.charAt(j-1)){ //write here i-1 and j-1 because of 0 based indexing in String
-                    dp[i][j] = 1 + dp[i-1][j-1];
+                    curr[j] = 1 + prev[j-1];
                 }
                 else{
-                    dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
+                    curr[j] = Math.max(prev[j], curr[j-1]);
                 }
+
             }
+            System.arraycopy(curr, 0, prev, 0, m + 1);
         }
-        return dp[m][m];
+        return prev[m];
     }
     public int longestPalindromeSubseq(String s) {
         StringBuilder sb = new StringBuilder(s).reverse();
