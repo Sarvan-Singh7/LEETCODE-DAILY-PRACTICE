@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1929-concatenation-of-array) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1505-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2048-build-array-from-permutation) |
