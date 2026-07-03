@@ -1,16 +1,15 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-       HashMap<String, List<String>> map = new HashMap<>();
-       for(String s : strs){
-        char ch[] = s.toCharArray();
-        Arrays.sort(ch);
-        String keyNew = new String(ch);
-        if(!map.containsKey(keyNew)){
-            map.put(keyNew, new ArrayList<>());
+        HashMap<String, List<String>> map = new HashMap<>();
+        for(int i=0;i<strs.length;i++){
+            char[] arr = strs[i].toCharArray();
+            Arrays.sort(arr);
+            String s = new String(arr);
+            if(!map.containsKey(s)){
+                map.put(s, new ArrayList<>());   //u have to declare thisbecause we cannot declare direct interface 
+            }
+            map.get(s).add(strs[i]);
         }
-        map.get(keyNew).add(s);
-       }
-       return new ArrayList<>(map.values());
+        return new ArrayList<>(map.values());
     }
 }
-  
