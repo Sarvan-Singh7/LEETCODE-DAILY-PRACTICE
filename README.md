@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0062-unique-paths) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0067-add-binary) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0402-remove-k-digits) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0206-reverse-linked-list) |
