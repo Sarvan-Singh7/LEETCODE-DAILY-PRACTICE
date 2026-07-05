@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1092-shortest-common-supersequence) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
