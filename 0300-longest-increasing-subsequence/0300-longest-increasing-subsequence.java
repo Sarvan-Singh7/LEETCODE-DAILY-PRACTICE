@@ -18,24 +18,46 @@
 // }
 
 
-class Solution {    ////MEMOIZATION CODE
-    public static int f(int nums[], int index, int prevInd, int n, int dp[][]){
-        if(index == n)return 0;    //base Case
-        ///not take and take case
+// class Solution {    ////MEMOIZATION CODE
+//     public static int f(int nums[], int index, int prevInd, int n, int dp[][]){
+//         if(index == n)return 0;    //base Case
+//         ///not take and take case
 
-        if(dp[index][prevInd + 1] != -1)return dp[index][prevInd + 1];  // see as to not take -1 s index we did prevInd +1 so(0 to n);
-        int notTake = 0 + f(nums, index+1, prevInd, n, dp);
-        int take =0;
-        if(prevInd == -1 || nums[index] > nums[prevInd]){
-            take = 1 + f(nums, index+1, index, n, dp);
-        }
-        return dp[index][prevInd+1] =  Math.max(take, notTake);
-    }
+//         if(dp[index][prevInd + 1] != -1)return dp[index][prevInd + 1];  // see as to not take -1 s index we did prevInd +1 so(0 to n);
+//         int notTake = 0 + f(nums, index+1, prevInd, n, dp);
+//         int take =0;
+//         if(prevInd == -1 || nums[index] > nums[prevInd]){
+//             take = 1 + f(nums, index+1, index, n, dp);
+//         }
+//         return dp[index][prevInd+1] =  Math.max(take, notTake);
+//     }
+//     public int lengthOfLIS(int[] nums) {
+//         int n = nums.length;
+//         ///as i have to also consider previous index for comparision so need that start at -1 and will increase it as index increased
+//         int dp[][] = new int[n][n+1];   //n+1 so from 0 to n index shifting by one to the right
+//         for(int i=0;i<n;i++)Arrays.fill(dp[i], -1);
+//         return  f(nums, 0, -1, n, dp);
+//     }
+// }
+
+
+
+
+class Solution {    ///TABULATION  CODE
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
         ///as i have to also consider previous index for comparision so need that start at -1 and will increase it as index increased
-        int dp[][] = new int[n][n+1];
-        for(int i=0;i<n;i++)Arrays.fill(dp[i], -1);
-        return  f(nums, 0, -1, n, dp);
+        int dp[][] = new int[n+1][n+1];
+        for(int i = n-1; i>=0; i--){
+            for(int j=i;j>=0;j--){   ///not i-1 as we did index shifting
+                int notTake = 0 + dp[i+1][j];
+                int take = 0;
+                if(j == 0 || nums[i] > nums[j-1]){
+                    take = 1 + dp[i+1][i+1];  ///not i as because index shifting in j
+                }
+                dp[i][j] = Math.max(take, notTake);
+            }
+        }
+        return dp[0][0];
     }
 }
