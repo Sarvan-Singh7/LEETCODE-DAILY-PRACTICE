@@ -43,21 +43,43 @@
 
 
 
-class Solution {    ///TABULATION  CODE
+// class Solution {    ///TABULATION  CODE
+//     public int lengthOfLIS(int[] nums) {
+//         int n = nums.length;
+//         ///as i have to also consider previous index for comparision so need that start at -1 and will increase it as index increased
+//         int dp[][] = new int[n+1][n+1];
+//         for(int i = n-1; i>=0; i--){
+//             for(int j=i;j>=-1;j--){   ///not i-1 as we did index shifting
+//                 int notTake = 0 + dp[i+1][j+1];          ///as j+1 taken just because of index shifting
+//                 int take = 0;
+//                 if( j == -1 || nums[i] > nums[j]){
+//                     take = 1 + dp[i+1][i+1];    ////i+1 of j is taken because of index shifting
+//                 }
+//                 dp[i][j+1] = Math.max(take, notTake);
+//             }
+//         }
+//         return dp[0][0];
+//     }
+// }
+
+
+
+class Solution {    ///TABULATION  CODE  WITH OPTIMIZATION
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        ///as i have to also consider previous index for comparision so need that start at -1 and will increase it as index increased
-        int dp[][] = new int[n+1][n+1];
+        int current[] = new int[n+1];
+        int ahead[] = new int[n+1];
         for(int i = n-1; i>=0; i--){
-            for(int j=i;j>=0;j--){   ///not i-1 as we did index shifting
-                int notTake = 0 + dp[i+1][j];
+            for(int j=i;j>=-1;j--){   ///not i-1 as we did index shifting
+                int notTake = 0 + ahead[j+1];          ///as j+1 taken just because of index shifting
                 int take = 0;
-                if(j == 0 || nums[i] > nums[j-1]){
-                    take = 1 + dp[i+1][i+1];  ///not i as because index shifting in j
+                if( j == -1 || nums[i] > nums[j]){
+                    take = 1 + ahead[i+1];    ////i+1 of j is taken because of index shifting
                 }
-                dp[i][j] = Math.max(take, notTake);
+                current[j+1] = Math.max(take, notTake);
             }
+            ahead = current.clone();
         }
-        return dp[0][0];
+        return current[0];
     }
 }
