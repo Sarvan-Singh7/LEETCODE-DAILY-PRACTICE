@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2404-most-frequent-even-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1603-running-sum-of-1d-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
