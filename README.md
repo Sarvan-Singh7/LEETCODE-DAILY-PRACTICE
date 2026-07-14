@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1463-cherry-pickup-ii) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1537-get-the-maximum-score](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1463-cherry-pickup-ii) |
 | [1537-get-the-maximum-score](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
