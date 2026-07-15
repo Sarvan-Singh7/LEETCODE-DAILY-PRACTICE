@@ -4,12 +4,14 @@ class Solution {
         return gcd(b, a%b);
     }
     public int gcdOfOddEvenSums(int n) {
-        int sumOdd=0, sumEven=0;
-       for(int i=1; i<= n*2; i++){
-            if(i%2 == 0)sumEven +=i;
-            else sumOdd +=i;
-       } 
-       return gcd(sumEven, sumOdd);
+    //     int sumOdd=0, sumEven=0;
+    //    for(int i=1; i<= n*2; i++){
+    //         if(i%2 == 0)sumEven +=i;
+    //         else sumOdd +=i;
+    //    } 
+    //    return gcd(sumEven, sumOdd);
+
+        return n;//also valid;
 
     }
 }
