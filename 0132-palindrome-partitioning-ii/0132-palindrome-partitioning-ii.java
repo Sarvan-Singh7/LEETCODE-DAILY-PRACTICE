@@ -36,11 +36,11 @@
 // }
 
 
-
-class Solution {
+///\(\text{States } (N) \times \text{Loop } (N) \times \text{Two-Pointer Check } (O(N)) = \mathbf{O(N^3)}\).
+class Solution {   ///O(n3) TC but still works as Not StringBuilder
     public static int f(String s, int i, int n, int dp[]){
         //: Change base case to -1 so the last segment doesn't add an extra cut
-        if(i == n )return -1;///as -1 return because it wont add anymore
+        if(i == n )return -1;///as 0 return because it wont add anymore
 
         int mini = Integer.MAX_VALUE;
         
