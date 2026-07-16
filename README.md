@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1200-minimum-absolute-difference) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1143-longest-common-subsequence) |
