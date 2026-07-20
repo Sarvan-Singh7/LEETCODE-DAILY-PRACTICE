@@ -35,7 +35,7 @@ class Solution {
         for(int val : arr){
             totalHours +=  (int)Math.ceil((double)val/hourly); ////double agar nahin diya so wrong answer;
         }
-            // Cast it back to int or change the function return type to long
+        // Cast it back to int or change the function return type to long
         // If totalHours exceeds Integer.MAX_VALUE, cap it so it doesn't break
         if (totalHours > Integer.MAX_VALUE) {
             return Integer.MAX_VALUE;
@@ -44,23 +44,25 @@ class Solution {
     }
     public int minEatingSpeed(int[] piles, int h) {
         int n = piles.length;
-        int countHour = 0;
+ 
         int maxi =0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){ //calculate maximum element as range can be fro 1 to maximum element
             maxi = Math.max(maxi, piles[i]);
         }
+
         int i =1, j=maxi;  ///hum array oe nahin balki range ke upar BS laga rahein hai jo valid answer de sakti hai
         int answer = maxi;
+
         while(i<=j){
             int mid = i  + (j-i)/2;
-            if(check(piles, mid) <= h){
-                maxi = mid;
+            if(check(piles, mid) <= h){//agar mid valid hai so as hame less value of k chahiye so go left and search there
+                answer = mid;
                 j = mid-1;
             }
-            else{
+            else{     //if current is wrong choice so go right
                 i= mid+1;
             }
         }
-        return maxi;
+        return answer;
     }
 }
