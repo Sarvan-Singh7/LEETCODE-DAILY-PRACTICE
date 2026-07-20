@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0912-sort-an-array) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
