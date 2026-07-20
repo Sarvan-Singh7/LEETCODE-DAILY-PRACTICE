@@ -1,19 +1,12 @@
-// class Solution {
-//     public int strStr(String haystack, String needle) {
-//         int n=needle.length();
-//         for(int i=0;i<haystack.length()-n+1;i++){
-//           if(haystack.substring(i,i+n).equals(needle)){
-//             return i;
-//           }
-//         }
-//         return -1;
-//     }
-// }
-
 class Solution {
     public int strStr(String haystack, String needle) {
-        
-        return haystack.indexOf(needle);
-        
-}
+        int index =0;
+        int n = haystack.length();
+        int m = needle.length();
+        if(needle.length() > haystack.length())return -1;
+        for(int i=0;i<= n-m; i++){   ///less than equal to
+            if(haystack.substring(i, i + m).equals(needle))return i;
+        }
+        return -1;
+    }
 }
