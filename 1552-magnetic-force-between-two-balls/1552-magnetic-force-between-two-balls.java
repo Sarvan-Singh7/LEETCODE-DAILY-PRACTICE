@@ -1,4 +1,4 @@
-class Solution {
+class Solution {   /////EXACTLY SAME AS AGRESSIVE COWS CODE    ---
     public static boolean isPossible(int arr[], int balls, int distance){
         int n = arr.length;
         int last = arr[0];
@@ -54,10 +54,10 @@ class Solution {
             int mid = i + (j-i)/2;
             if(isPossible(position, m, mid) == true){
                 answer = mid;
-                i = mid +1;
+                i = mid +1; ///CHOTA MILA SO BADA DHUNDO
             }
             else{
-                j = mid -1;
+                j = mid -1;  //CHOTE DISTANCE PE SHAYAD VALID HO SAKTA HAIO
             }
         }
         return answer;
