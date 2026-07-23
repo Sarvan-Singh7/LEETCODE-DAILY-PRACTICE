@@ -19,6 +19,7 @@
 // }
 
 
+
 ////using hashset
 
 // class Solution {
@@ -70,22 +71,33 @@
 
 
 
-
-
 class Solution {
-    public int lengthOfLongestSubstring(String str) {
+    public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
-        int maxi = 0;
         int left =0;
-        for(int right =0;right <str.length();right++){
-            char ch = str.charAt(right);
-            while(set.contains(ch)){
-                set.remove(str.charAt(left));
+        int right = 0;
+        int maxi = 0;
+        while(right < s.length()){
+            char ch = s.charAt(right);
+
+            if(!set.contains(ch)){
+                set.add(ch);
+                maxi = Math.max(maxi, right - left + 1);
+                right++;
+            }else{
+                set.remove(s.charAt(left));
                 left++;
             }
-            maxi = Math.max(maxi, right - left +1);
-            set.add(ch);
         }
-        return maxi;
+      return maxi;  
     }
 }
+
+
+
+
+
+
+
+
+
