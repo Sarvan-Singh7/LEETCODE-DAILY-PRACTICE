@@ -1,32 +1,31 @@
-class Solution {  ///har ek lemonade 5 deolliar ka hai and people ke pass 5, 10, 20 ke notes hai and maine dekhna hai ki apne change se kya mai
-//sab logon ko lemonade de sakta hun and unke baki paise wapas bhi if yes so return true
-
+class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int five =0, ten =0;
-        for(int i=0;i<bills.length;i++){
-            if(bills[i] == 5){
-                five++;
+      
+        int five=0, tens=0, twenty =0;
+        for(int i=0; i<bills.length; i++){
+            int val = bills[i];
+            if(val == 5)five++;
+            else if(val == 10){
+                if(five == 0)return false;
+                tens++;
+                five--;
             }
-            else if(bills[i] == 10){
-                if(five >=1){
-                    ten = ten+1;  //also update 10 as it came
-                    five = five -1;  ///10 diye customer ne so agar mere pass 5 pade hai toh hi complete hoga nahin toh false
-                }
-                else return false;
-            }
-            else if(bills[i] == 20){
-                if(ten !=0 && five !=0){  ////as 2 ways to return 15 back to customer means(10 + 5) Or (5+5+5);
-                    ten--;
-                    five--;
-                }
-                else if(five >=3){
-                    five = five -3;
-                }
-                else {
-                    return false;
-                }
+            else if(val == 20){
+                if((five >= 3) || (five >=1 && tens >=1) ){
+                    twenty++;
+                    
+                    if((five >=1 && tens >=1)){///pehle tens wale nikal diya as it only used in 20 wala case then 3 five ka karo
+                        five--;
+                        tens--;
+                    }
+                    else if(five >= 3)five = five-3;
+                    
+                }else{
+                        return false;
+                    }
+                
             }
         }
-        return true;   // all elements satisfied
+        return true;
     }
 }
