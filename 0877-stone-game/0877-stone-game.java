@@ -1,3 +1,6 @@
+// Math trick: Because n is even and sum is odd, Alice can mathematically guarantee a win by completely controlling the parity (even/odd) of the indices Bob is allowed to pick.
+//return true;
+/////RETURN TRUE SE BHI PURA CODE CHAL JAEGA AS EVEN NUMBER OF ELEMENTS PRESENT-----------------------------------
 class Solution {
     public static int f(int arr[], int si, int ei, int dp[][]){
         if(si > ei)return 0;
