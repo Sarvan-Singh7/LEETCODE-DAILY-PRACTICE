@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1537-get-the-maximum-score) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
