@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1463-cherry-pickup-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1463-cherry-pickup-ii) |
 | [1537-get-the-maximum-score](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1537-get-the-maximum-score) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1390-four-divisors](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1200,4 +1203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
