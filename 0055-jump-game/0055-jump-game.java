@@ -4,7 +4,8 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             if(maxIndex <i)return false;
             maxIndex = Math.max(maxIndex, i + nums[i]);
-            if(maxIndex == nums.length -1)return true;
+            // if(maxIndex == nums.length -1)return true;
+            System.out.println(i);
         }
         return true;
     }
