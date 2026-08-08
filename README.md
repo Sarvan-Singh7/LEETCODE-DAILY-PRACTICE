@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0213-house-robber-ii) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
