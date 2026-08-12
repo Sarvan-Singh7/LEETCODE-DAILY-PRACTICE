@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2643-row-with-maximum-ones) |
 | [2714-left-and-right-sum-differences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
