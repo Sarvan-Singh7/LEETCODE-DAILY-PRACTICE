@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1137-height-checker](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1137-height-checker) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3310-remove-methods-from-project) |
@@ -1183,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Rolling Hash
@@ -1235,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
