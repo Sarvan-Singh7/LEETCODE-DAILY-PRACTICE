@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3583-count-special-triplets) |
