@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1463-cherry-pickup-ii) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1677-matrix-diagonal-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1148,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -1214,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Rolling Hash
@@ -1268,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1326,4 +1333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
