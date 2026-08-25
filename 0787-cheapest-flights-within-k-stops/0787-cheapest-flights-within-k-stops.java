@@ -15,7 +15,7 @@ class Solution {
         int dist[] = new int[n];
         Arrays.fill(dist, (int)1e9);
         q.add(new int[]{0, src, 0});///stops, src, distance;
-
+        dist[src] =0;
         while(!q.isEmpty()){
             int current[] = q.poll();
             int stops = current[0];
