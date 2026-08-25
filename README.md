@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3637-trionic-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3731-find-missing-elements) |
 ## Counting
