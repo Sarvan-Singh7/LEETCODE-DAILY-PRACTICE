@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
@@ -1288,12 +1292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Game Theory
 |  |
