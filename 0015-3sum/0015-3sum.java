@@ -27,8 +27,8 @@ class Solution {
         List<List<Integer>> arr = new ArrayList<>();
         int n = nums.length;
         Arrays.sort(nums);
-        for(int i=0;i <= n -2;i++){    //end is n-2 as we will also acces some indices like k+1
-            if( i>0 && nums[i] == nums[i-1] ){
+        for(int i=0;i <= n -1;i++){    //end is n-2 as we will also acces some indices like k+1
+            if( i>0 && nums[i] == nums[i-1] ){ //to prevent duplicates
                 continue;
             }
             int j=i+1;
@@ -53,3 +53,38 @@ class Solution {
        
     }
 }
+
+
+///also can be done via map 
+
+// class Solution {
+//        public List<List<Integer>> threeSum(int[] nums) {
+//         int n = nums.length;
+//         List<List<Integer>> ans = new ArrayList<>();
+
+//         HashSet<List<Integer>> set = new HashSet<>();
+
+//         HashSet<Integer> setPrevios = new HashSet<>();
+
+//         for (int i = 1; i < n - 1; i++) {
+//             setPrevios.add(nums[i - 1]);
+//             for (int j = i + 1; j < n; j++) {
+//                 int want = -(nums[i] + nums[j]);
+//                 if (setPrevios.contains(want)) {
+//                     List<Integer> list = new ArrayList<>();
+//                     list.add(want);
+//                     list.add(nums[i]);
+//                     list.add(nums[j]);
+//                     Collections.sort(list);
+//                     if (!set.contains(list)) {
+//                         ans.add(list);
+//                         set.add(list);
+//                     }
+//                 }
+//             }
+//         }
+
+//         return ans;
+
+//     }
+// }
