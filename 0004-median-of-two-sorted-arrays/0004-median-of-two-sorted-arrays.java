@@ -29,7 +29,7 @@
 //     }
 // }
 
-class Solution {  ///reduced extra space
+class Solution {  ///reduced extra space  by 2 Pointer Approach TC = O(m + n)
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
