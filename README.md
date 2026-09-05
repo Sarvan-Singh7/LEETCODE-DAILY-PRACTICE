@@ -1039,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1165,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
@@ -1302,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0802-find-eventual-safe-states) |
@@ -1311,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1365,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
