@@ -4,7 +4,7 @@ class Solution {
         long p = 1000, res = 0;
         while (p <= n) {
             res += n - p + 1;
-            p *= 1000;
+            p *= 1000;//as after every 3 digits
         }
         return res;
     }
