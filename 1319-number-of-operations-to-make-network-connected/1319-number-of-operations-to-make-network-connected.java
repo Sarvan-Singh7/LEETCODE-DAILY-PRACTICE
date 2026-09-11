@@ -27,7 +27,7 @@ class Solution {
         ///Here it is Sure that DSU will be used
         parent = new int[n];
         rank = new int[n];
-        int count=1;   ///cput initialized as 1
+        int count=0;   ///cput initialized as 1
         
         for(int i=0; i<n;i++)parent[i] = i;
         for(int i=0; i<connections.length;i++){
@@ -40,6 +40,6 @@ class Solution {
             }
             
         }
-        return n- count;
+        return n- count-1;
     }
 }
