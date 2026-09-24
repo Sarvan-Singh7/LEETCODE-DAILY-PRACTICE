@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3583-count-special-triplets) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
