@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1872-stone-game-viii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1635-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2404-most-frequent-even-element](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2404-most-frequent-even-element) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1944-truncate-sentence) |
