@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1048-longest-string-chain](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0861-score-after-flipping-matrix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1537-get-the-maximum-score](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1537-get-the-maximum-score) |
@@ -1441,4 +1444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
