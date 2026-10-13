@@ -1,3 +1,4 @@
+//square each element -> sort it -> subtract half [0, n/2) -> add half [n/2, n)
 class Solution {
     public long maxAlternatingSum(int[] nums) {
         Arrays.sort(nums);
