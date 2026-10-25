@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1375,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
