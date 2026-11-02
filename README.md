@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0493-reverse-pairs) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0721-accounts-merge) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
