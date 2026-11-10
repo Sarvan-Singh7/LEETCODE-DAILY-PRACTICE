@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3637-trionic-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3693-climbing-stairs-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
