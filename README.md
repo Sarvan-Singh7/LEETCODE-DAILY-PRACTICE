@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2714-left-and-right-sum-differences](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2714-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
