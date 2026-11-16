@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
