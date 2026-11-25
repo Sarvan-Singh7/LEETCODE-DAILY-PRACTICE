@@ -1536,4 +1536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
