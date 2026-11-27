@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
@@ -1242,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1278,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -1328,6 +1332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sarvan-Singh7/LEETCODE-DAILY-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
